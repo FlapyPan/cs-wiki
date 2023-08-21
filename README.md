@@ -25,7 +25,7 @@
 如果你有推荐的课程或资料分享，欢迎提交pr或发邮件给我 [flapypan@gmail.com](flapypan@gmail.com)。
 
 提交 pr 前请**仔细**阅读本项目的 [README.md](https://github.com/FlapyPan/cs-wiki/blob/main/README.md)
-以及 [文章模板](/docs-template)
+以及 [文章模板](https://cswiki.flapypan.top/docs-template)
 
 ## 特别鸣谢
 
